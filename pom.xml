@@ -73,12 +73,12 @@
 		</repository>
 	</distributionManagement>
 
-	<!--<scm>
+	<scm>
 		<connection>scm:git:git@github.com:barredsurf/teaching-academy.git</connection>
 		<developerConnection>scm:git:git@github.com:barredsurf/teaching-academy.git</developerConnection>
 		<url>scm:git:git@github.com:barredsurf/teaching-academy.git</url>
 		<tag>v2.0.6-RELEASE</tag>
-	</scm>-->
+	</scm>
 
 	<build>
 		<pluginManagement>
